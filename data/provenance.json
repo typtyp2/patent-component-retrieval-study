@@ -1,0 +1,9 @@
+{
+  "source_sha256": {
+    "work_x/results_v2_te3s_te3l_bm25.json": "460ffbad6a4d9b60144c52efcf40019021165cfaefb976ea5eeca22ffffa2269",
+    "work_xb/results_v3_te3s_te3l_bm25.json": "ebe7bf0a93f60796bc1144330c8c52f95b7ea19f5ff042f947c2ff30bb8ad7b3",
+    "work_xb/results_v4_te3s_te3l_bm25.json": "cf417f78b3cc31ce622b975f9d1e1890ebc1ae97cfa4e305b69d90c9cba23713"
+  },
+  "release_scope": "Derived numerical metrics only; not a complete raw-data release.",
+  "exposure_detection": "Flags from the prior NFKC/whitespace/lowercase audit; raw translated text is not redistributed."
+}
