@@ -1,0 +1,29 @@
+missing verdicts: {}
+G0 gpt-5.6-luna (recorded 2026-09) abstain={'A': 73, 'B': 6, 'R': 36, 'RI': 2}
+  J1  correct={'A': 15, 'B': 41, 'R': 46, 'RI': 59} RI-R net=+13 p=0.0122 B-A net=+26 p=0.0006 R-B net=+5 p=0.629 newly={'n': 34, 'correct': 10}
+  J2  correct={'A': 16, 'B': 43, 'R': 47, 'RI': 60} RI-R net=+13 p=0.0166 B-A net=+27 p=0.0006 R-B net=+4 p=0.743 newly={'n': 34, 'correct': 10}
+  J3  correct={'A': 17, 'B': 42, 'R': 48, 'RI': 63} RI-R net=+15 p=0.0100 B-A net=+25 p=0.0018 R-B net=+6 p=0.575 newly={'n': 34, 'correct': 12}
+  MAJ correct={'A': 16, 'B': 42, 'R': 47, 'RI': 61} RI-R net=+14 p=0.0103 B-A net=+26 p=0.0006 R-B net=+5 p=0.648 newly={'n': 34, 'correct': 10}
+G1 gpt-5.6-luna abstain={'A': 70, 'B': 2, 'R': 46, 'RI': 0}
+  J1  correct={'A': 18, 'B': 41, 'R': 44, 'RI': 59} RI-R net=+15 p=0.0135 B-A net=+23 p=0.0014 R-B net=+3 p=0.835 newly={'n': 46, 'correct': 15}
+  J2  correct={'A': 19, 'B': 44, 'R': 44, 'RI': 61} RI-R net=+17 p=0.0128 B-A net=+25 p=0.0009 R-B net=+0 p=1.000 newly={'n': 46, 'correct': 17}
+  J3  correct={'A': 20, 'B': 44, 'R': 45, 'RI': 62} RI-R net=+17 p=0.0060 B-A net=+24 p=0.0025 R-B net=+1 p=1.000 newly={'n': 46, 'correct': 16}
+  MAJ correct={'A': 19, 'B': 44, 'R': 44, 'RI': 61} RI-R net=+17 p=0.0060 B-A net=+25 p=0.0009 R-B net=+0 p=1.000 newly={'n': 46, 'correct': 16}
+G2 gpt-6.1-terra abstain={'A': 81, 'B': 10, 'R': 48, 'RI': 1}
+  J1  correct={'A': 14, 'B': 54, 'R': 42, 'RI': 64} RI-R net=+22 p=0.0000 B-A net=+40 p=0.0000 R-B net=-12 p=0.171 newly={'n': 47, 'correct': 20}
+  J2  correct={'A': 14, 'B': 56, 'R': 43, 'RI': 67} RI-R net=+24 p=0.0000 B-A net=+42 p=0.0000 R-B net=-13 p=0.181 newly={'n': 47, 'correct': 22}
+  J3  correct={'A': 14, 'B': 57, 'R': 45, 'RI': 68} RI-R net=+23 p=0.0002 B-A net=+43 p=0.0000 R-B net=-12 p=0.224 newly={'n': 47, 'correct': 22}
+  MAJ correct={'A': 14, 'B': 56, 'R': 43, 'RI': 66} RI-R net=+23 p=0.0000 B-A net=+42 p=0.0000 R-B net=-13 p=0.181 newly={'n': 47, 'correct': 21}
+G3 claude-sonnet-5-5 abstain={'A': 66, 'B': 7, 'R': 46, 'RI': 2}
+  J1  correct={'A': 21, 'B': 46, 'R': 42, 'RI': 63} RI-R net=+21 p=0.0005 B-A net=+25 p=0.0023 R-B net=-4 p=0.731 newly={'n': 45, 'correct': 20}
+  J2  correct={'A': 20, 'B': 47, 'R': 42, 'RI': 64} RI-R net=+22 p=0.0011 B-A net=+27 p=0.0010 R-B net=-5 p=0.675 newly={'n': 45, 'correct': 22}
+  J3  correct={'A': 22, 'B': 54, 'R': 45, 'RI': 71} RI-R net=+26 p=0.0002 B-A net=+32 p=0.0003 R-B net=-9 p=0.409 newly={'n': 45, 'correct': 24}
+  MAJ correct={'A': 21, 'B': 47, 'R': 43, 'RI': 66} RI-R net=+23 p=0.0003 B-A net=+26 p=0.0014 R-B net=-4 p=0.741 newly={'n': 45, 'correct': 22}
+G4 claude-haiku-5-5 abstain={'A': 80, 'B': 18, 'R': 47, 'RI': 6}
+  J1  correct={'A': 10, 'B': 33, 'R': 42, 'RI': 49} RI-R net=+7 p=0.3881 B-A net=+23 p=0.0004 R-B net=+9 p=0.388 newly={'n': 43, 'correct': 15}
+  J2  correct={'A': 10, 'B': 35, 'R': 45, 'RI': 51} RI-R net=+6 p=0.5362 B-A net=+25 p=0.0002 R-B net=+10 p=0.366 newly={'n': 43, 'correct': 16}
+  J3  correct={'A': 11, 'B': 35, 'R': 45, 'RI': 54} RI-R net=+9 p=0.2956 B-A net=+24 p=0.0006 R-B net=+10 p=0.366 newly={'n': 43, 'correct': 17}
+  MAJ correct={'A': 10, 'B': 35, 'R': 45, 'RI': 51} RI-R net=+6 p=0.5112 B-A net=+25 p=0.0002 R-B net=+10 p=0.366 newly={'n': 43, 'correct': 16}
+across: {"RI-R": {"generators": ["G1", "G2", "G3", "G4"], "net_sum": 69, "docs_better_worse_tied": [20, 9, 13], "sign_flip_p": 0.001265}, "B-A": {"generators": ["G1", "G2", "G3", "G4"], "net_sum": 118, "docs_better_worse_tied": [26, 5, 11], "sign_flip_p": 5e-06}, "R-B": {"generators": ["G1", "G2", "G3", "G4"], "net_sum": -7, "docs_better_worse_tied": [20, 19, 3], "sign_flip_p": 0.86625}, "R-A": {"generators": ["G1", "G2", "G3", "G4"], "net_sum": 111, "docs_better_worse_tied": [21, 5, 16], "sign_flip_p": 0.000235}}
+checks: {"J1_new_vs_recorded": {"n": 424, "agree": 0.9906, "kappa": 0.98, "correct_new": 161, "correct_recorded": 161}, "J2_new_vs_recorded": {"n": 424, "agree": 1.0, "kappa": 1.0, "correct_new": 166, "correct_recorded": 166}, "J1_vs_human_majority_G0": {"n": 424, "agree": 0.9222, "kappa": 0.84}, "J2_vs_human_majority_G0": {"n": 424, "agree": 0.9292, "kappa": 0.855}, "J3_vs_human_majority_G0": {"n": 424, "agree": 0.9387, "kappa": 0.875}, "MAJ_vs_human_majority_G0": {"n": 424, "agree": 0.9292, "kappa": 0.855}, "rerun_G1_vs_G0": {"A": {"n": 106, "identical_answer": 87, "same_abstention": 103, "same_majority_verdict": 101}, "B": {"n": 106, "identical_answer": 54, "same_abstention": 102, "same_majority_verdict": 90}, "R": {"n": 106, "identical_answer": 85, "same_abstention": 96, "same_majority_verdict": 103}, "RI": {"n": 106, "identical_answer": 76, "same_abstention": 104, "same_majority_verdict": 96}}}
+inter-judge: {"J1-J2": {"n": 1473, "agree": 0.9667, "kappa": 0.933}, "J1-J3": {"n": 1473, "agree": 0.9545, "kappa": 0.908}, "J2-J3": {"n": 1473, "agree": 0.9701, "kappa": 0.939}}
